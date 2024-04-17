@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🌟 Hey there, I'm Aima Arif</h1>
-  <h3>Software Engineer | Python Developer | AI enthusiast  📚</h3>
+  <h3>Software Engineer | Python Developer | AI enthusiast  </h3>
   <p>Welcome to my coding journey! I'm here to craft solutions and unravel the mysteries of code.</p>
 </div>
 
@@ -10,16 +10,16 @@
 </div>
 
 <div align="center">
-  <h2>🎨 Languages & Tools 🛠️</h2>
-  <p>Python | Django | JavaScript | HTML/CSS | C++ | C | Java | SQL | Git | React.js </p>
+  <h2> Languages </h2>
+  <p>Python | JavaScript | HTML/CSS | C++ | Java | SQL </p>
 </div>
-
 <div align="center">
-  <h2>💌 Let's Connect</h2>
-  <p>
-    <a href="https://www.linkedin.com/in/aima-arif"><img src="https://img.shields.io/badge/-LinkedIn-blue"></a>
-    <a href="mailto:aimaarif567@gmail.com"><img src="https://img.shields.io/badge/-Email-red"></a>
-  </p>
+  <h2> Developer Tools 🛠️</h2>
+  <p>VS code | PyCharm | Android studio | MATLAB | Jupyter Notebooks </p>
+</div>
+<div align="center">
+  <h2> Technologies/Frameworks </h2>
+  <p>Linux | Git | WordPress | Django | React js | Node js | Bootstrap </p>
 </div>
 
 <div align="center">
@@ -43,6 +43,13 @@
   </p>
 </div>
 
+<div align="center">
+  <h2>💌 Let's Connect</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/aima-arif"><img src="https://img.shields.io/badge/-LinkedIn-blue"></a>
+    <a href="mailto:aimaarif567@gmail.com"><img src="https://img.shields.io/badge/-Email-red"></a>
+  </p>
+</div>
 <div align="center">
   <h2>🎉 Thank You!</h2>
 </div>
