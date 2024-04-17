@@ -1,7 +1,7 @@
 <div align="center">
   <h1> 👋 Hey there, I'm Aima Arif</h1>
   <h3>Software Engineer | Python Developer | AI enthusiast  </h3>
-  <p>Welcome to my coding place! I'm here to explore and craft solutions in the world of coding.</p>
+  <p>Welcome to my coding place! I'm here to explore and craft solutions to the real-world problems.</p>
 </div>
 
 <div align="center">
