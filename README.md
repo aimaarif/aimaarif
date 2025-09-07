@@ -1,58 +1,43 @@
-<div align="center">
-  <h1> 👋 Hey there, I'm Aima Arif</h1>
-  <h3>Software Engineer | Python Developer | AI enthusiast  </h3>
-  <p>Welcome to my coding place! I'm here to explore and craft solutions to the real-world problems.</p>
-</div>
+# Hi there, I'm Aima Arif 👋  
 
-<div align="center">
-  <h2>🚀 Expertise</h2>
-  <p>Exploring the realms of Web Development | Diving deep into Machine Learning | Crafting Software Solutions</p>
-</div>
+🚀 **Software Engineer | Backend Development | Data Automation | Web Platforms**  
 
-<div align="center">
-  <h2>🎨 Languages 🌈</h2>
-  <p>Python | JavaScript | HTML/CSS | C++ | Java | SQL </p>
-</div>
+📧 aimaarif567@gmail.com • 🌐 [Portfolio](https://aimaarif.github.io/portfolio) • 💼 [LinkedIn](https://linkedin.com/in/aima-arif)  
 
-<div align="center">
-  <h2>🛠️ Developer Tools 🧰</h2>
-  <p>VS code | PyCharm | Android studio | MATLAB | Jupyter Notebooks </p>
-</div>
+---
 
-<div align="center">
-  <h2>💡 Technologies/Frameworks</h2>
-  <p>Linux | Git | WordPress | Django | React js | Node js | Bootstrap </p>
-</div>
+## 🛠️ Tech Stack  
 
-<div align="center">
-  <h2>💻 Projects</h2>
-  <p>Embark on a journey through my creations:</p>
-</div>
+- **Languages**: Python · JavaScript · PHP · Dart  
+- **Frameworks**: Django · Node.js · React.js · Flutter  
+- **Databases**: MySQL · PostgreSQL  
+- **Other**: Web Scraping · API Integration · Responsive UI/UX · Git/GitHub  
 
-<div align="center">
-  <h3>Web Development 🌐</h3>
-  <p>
-     <a href="https://github.com/aimaarif/Django-Ecommerce-Website">Django Ecommerce Website</a> <br>
-     <a href="https://github.com/aimaarif/Website-for-a-software-company">Website for a company</a> <br>
-     <a href="https://github.com/aimaarif/Online-BOOK-Store">Online Book Store</a>
-  </p>
-</div>
+---
 
-<div align="center">
-  <h3>Machine Learning & AI 🧠</h3>
-  <p>
-    <a href="https://github.com/aimaarif/Books-Recommendation-system">Book Recommendation System</a>
-  </p>
-</div>
+## 🚀 Featured Projects  
 
-<div align="center">
-  <h2>💌 Let's Connect</h2>
-  <p>
-    <a href="https://www.linkedin.com/in/aima-arif"><img src="https://img.shields.io/badge/-LinkedIn-blue"></a>
-    <a href="mailto:aimaarif567@gmail.com"><img src="https://img.shields.io/badge/-Email-red"></a>
-  </p>
-</div>
+- **[STO UAF](http://stouaf.com)** → Student societies platform used by **500+ students**.  
+- **[Web Scraping Suite](https://github.com/aimaarif)** → Automated data pipelines handling **50k+ records**.  
+- **[Zam Express](http://zamxpress.com)** → Logistics platform with **shipment tracking & cost estimation**.  
+- **[Event Collab](https://github.com/aimaarif)** → Flutter app for event collaboration with role-based onboarding.  
 
-<div align="center">
-  <h2>🎉 Thank You!</h2>
-</div>
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aimaarif&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimaarif&layout=compact&theme=radical" height="160" />
+</p>  
+
+---
+
+## 🔗 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/aima-arif"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:aimaarif567@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://aimaarif.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/aimaarif"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
+</p>
