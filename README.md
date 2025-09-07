@@ -1,6 +1,6 @@
 # Hi there, I'm Aima Arif 👋  
 
-🚀 **Software Engineer | Backend Development | Data Automation | Web Platforms**  
+🚀 **Software Engineer | Full Stack Developer | Data Automation | Web Scraping**  
 
 📧 aimaarif567@gmail.com • 🌐 [Portfolio](https://aimaarif.github.io/portfolio) • 💼 [LinkedIn](https://linkedin.com/in/aima-arif)  
 
@@ -11,16 +11,15 @@
 - **Languages**: Python · JavaScript · PHP · Dart  
 - **Frameworks**: Django · Node.js · React.js · Flutter  
 - **Databases**: MySQL · PostgreSQL  
-- **Other**: Web Scraping · API Integration · Responsive UI/UX · Git/GitHub  
+- **Other**: Web Scraping · API Integration · Responsive UI/UX ·
 
 ---
 
 ## 🚀 Featured Projects  
 
-- **[STO UAF](http://stouaf.com)** → Student societies platform used by **500+ students**.  
-- **[Web Scraping Suite](https://github.com/aimaarif)** → Automated data pipelines handling **50k+ records**.  
+- **[STO UAF](http://stouaf.com)** → Student societies platform used by **500+ students**.    
 - **[Zam Express](http://zamxpress.com)** → Logistics platform with **shipment tracking & cost estimation**.  
-- **[Event Collab](https://github.com/aimaarif)** → Flutter app for event collaboration with role-based onboarding.  
+- **[Fertify Consultants](https://fertifyconsultants.com)** → Django-Based website for agriculture blogging with CMS Support.  
 
 ---
 
